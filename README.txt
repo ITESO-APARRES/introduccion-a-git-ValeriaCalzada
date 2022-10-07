@@ -1,1 +1,4 @@
-Este es un archivo de texto para que sepan que estoy aprendiendo a usar GIT
+Este es un archivo de texto para que sepan que estoy aprendiendo 
+a usar GIT
+
+*Author is Valeria Calzada*
