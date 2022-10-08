@@ -1,7 +1,9 @@
- #include <stdio.h>
+#include <tools.h>
+#include <stdio.h>
 
- void main {
-     printf("Hola Mundo\n");
+
+int main (void){
+
+    printf("Hola mundo\n");
     return 0;
-
- }
+}
