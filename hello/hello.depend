@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1514144174 source:c:\users\valer\onedrive\escritorio\iteso cc\git\portablegit\hello\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1665207696 source:c:\users\valer\onedrive\escritorio\iteso cc\git\portablegit\hello\hello.c
+	<stdio.h>
+
