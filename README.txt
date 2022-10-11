@@ -11,3 +11,5 @@ this is one if the changes
 
 Este es la modificacion desde github
 hollaaaaa!!
+
+si se pudo sincronizaaaar
