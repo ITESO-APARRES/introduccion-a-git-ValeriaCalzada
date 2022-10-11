@@ -9,11 +9,3 @@ this is one of the versions
 
 this is one if the changes 
 
-Este es la modificacion desde github
-hollaaaaa!!
-
-si se pudo sincronizaaaar
-
-Esta es para la fase 3
-
-Esta es la segunda parte de la fase 3 
