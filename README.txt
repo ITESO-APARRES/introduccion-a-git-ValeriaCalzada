@@ -15,3 +15,5 @@ hollaaaaa!!
 si se pudo sincronizaaaar
 
 Esta es para la fase 3
+
+Esta es la segunda parte de la fase 3 
